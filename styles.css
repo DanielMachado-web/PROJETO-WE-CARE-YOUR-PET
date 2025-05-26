@@ -1,8 +1,9 @@
 * {
     font-family: "Montserrat", sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 0 auto;
+    padding: 0 auto;
     box-sizing: border-box;
+    
 }
 
 header {
@@ -23,27 +24,31 @@ header {
 .button-header {
     background: #665ae1;
     border-radius: 20.5px;
-    width: 130px;
+    width: 100px;
     height: 41px;
     border: none;
-    font-weight: 600;
+    font-weight: 0 auto;
     font-size: 24px;
-    line-height: 29px;
+    line-height: 19px;
     color: #ffff;
     cursor: pointer;
 }
 
 .logo-pet {
-    width: 568px;
+    width: 500px;
     height: 500px;
     margin-left: 50px;
     cursor: pointer;
+    padding: auto;
+    
 }
 
 section {
     display: inline-block;
-    width: 515px;
-    margin-left: 86px;
+    width: 505px;
+    margin-left: 25px;
+    margin-top: auto;
+   
 }
 
 h1 {
@@ -67,8 +72,8 @@ p {
     font-size: 24px;
     line-height: 29px;
     color: #848484;
-    margin-top: 32px;
-    margin-bottom: 65px;
+    margin-top: 42px;
+    margin-bottom: 55px;
     text-align: justify;
 
 }
